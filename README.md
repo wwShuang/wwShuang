@@ -2,10 +2,6 @@
 
 I'm a self-taught passionate BackEnd developer.
 
-**About me**
-
-
-
 
 
 ### 📫 How to reach me:  
@@ -17,7 +13,13 @@ I'm a self-taught passionate BackEnd developer.
   <img align="left" alt="Shuang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-- 
+<a href="galaxygu1636@gmail.com">
+  <img align="left" alt="Shuang's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" />
+</a>
+
+
+
+
 <!--
 **wwShuang/wwShuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
