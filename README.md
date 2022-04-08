@@ -13,8 +13,8 @@ I'm a self-taught passionate BackEnd developer.
   <img align="left" alt="Shuang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="@galaxygu1636@gmail.com">
-  <img align="left" alt="Shuang's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" />
+<a href="https://stackoverflow.com/users/14174580/shuangww">
+  <img align="left" alt="Shuang's Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />
 </a>
 
 
