@@ -6,7 +6,7 @@ I'm a self-taught passionate BackEnd developer.
 
 #### 📫 How to reach me:  
 
-<a href="https://twitter.com/galaxycloudee">
+<a href="https://twitter.com/galaxycloude111">
   <img align="left" alt="wwShuang Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shuang-g-214704127/">
