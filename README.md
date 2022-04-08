@@ -1,8 +1,12 @@
 #### Hi there, This is Shuang 👋
 
-I'm a self-taught passionate BackEnd developer.
+I'm a self-taught passionate BackEnd developer. I'm passionate about distributed storage system and database. 
 
+Also I'm very interested in Web3.
 
+My Blog: https://wwshuang.github.io/ , record my technical articles.
+
+If you want to contact me, Email is prefered, thank you!
 
 #### 📫 How to reach me:  
 
@@ -16,8 +20,6 @@ I'm a self-taught passionate BackEnd developer.
 <a href="https://stackoverflow.com/users/14174580/shuangww">
   <img align="left" alt="Shuang's Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />
 </a>
-
-
 
 
 <!--
