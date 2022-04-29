@@ -1,6 +1,6 @@
 #### Hi there, This is Shuang 👋
 
-I'm a self-taught BackEnd developer. I'm passionate about distributed storage system and database. 
+I'm a self-taught full stack developer. I'm passionate about distributed storage system and database. 
 
 Also I'm very interested in Web3.
 
