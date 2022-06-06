@@ -10,10 +10,10 @@ If you want to contact me, Email is prefered, thank you!
 
 #### 📫 How to reach me:  
 
-<a href="https://twitter.com/galaxycloude111">
+<a href="https://twitter.com/galaxycloudee">
   <img align="left" alt="wwShuang Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shuang-g-214704127/">
+<a href="https://www.linkedin.com/in/shuanggu/">
   <img align="left" alt="Shuang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
