@@ -10,15 +10,8 @@ If you want to contact me, Email is prefered, thank you!
 
 #### 📫 How to reach me:  
 
-<a href="https://twitter.com/galaxycloudee">
-  <img align="left" alt="wwShuang Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/shuanggu/">
   <img align="left" alt="Shuang's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://stackoverflow.com/users/14174580/shuangww">
-  <img align="left" alt="Shuang's Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />
 </a>
 
 
