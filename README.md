@@ -1,10 +1,8 @@
 #### Hi there, This is Shuang 👋
 
-I'm a self-taught full stack developer. I'm passionate about distributed storage system and database. 
+I'm a self-taught full stack developer. Proficient in Backend. Also I'm interested in Web3.
 
-Also I'm very interested in Web3.
-
-My Blog: https://wwshuang.github.io/ , record my technical articles.
+My Blog: https://wwshuang.github.io/ , record my life and some technical articles.
 
 If you want to contact me, Email is prefered, thank you!
 
