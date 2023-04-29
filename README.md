@@ -6,6 +6,7 @@ My Blog: https://wwshuang.github.io/ , record my life and some technical article
 
 If you want to contact me, Email is prefered, thank you!
 
+<!--
 #### 📫 How to reach me:  
 
 <a href="https://www.linkedin.com/in/shuanggu/">
@@ -13,7 +14,7 @@ If you want to contact me, Email is prefered, thank you!
 </a>
 
 
-<!--
+
 **wwShuang/wwShuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
