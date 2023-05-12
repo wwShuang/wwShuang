@@ -1,6 +1,6 @@
 #### Hi there, This is Shuang 👋
 
-I'm a self-taught full stack developer. Proficient in Backend. Also I'm interested in Web3.
+I'm a self-taught full stack developer. Proficient in Backend. Also I'm interested in Blockchain.
 
 My Blog: https://wwshuang.github.io/ , record my life and some technical articles.
 
