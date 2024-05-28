@@ -29,3 +29,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Experienced Frontend Developer with a solid finance background and one year of IT experience in a bank. Proficient in HTML, CSS, JavaScript, and skilled in DevOps tools like Docker and Kubernetes. Successfully led multiple CI/CD projects. Seeking to transition to a Backend Engineer role to deepen backend development skills and drive innovation in fintech.
+
+EDUCATION  
+University of Macau(UM), Faculty of Science and Technology	        Macau, China
+Master of Science in Computer Science | 1 EI paper | GPA: 3.52                                                   2020 – present
+Beijing University of Posts and Telecommunications (BUPT), School of Sciences	       Beijing, China
+Bachelor of Science in Physics | Student scholarship & Cultural and Sports Activist                       2015 – 2019
+TECHNICAL SKILLS 
+Programming Language: C, C++, Python, MATLAB
+Machine Learning: NumPy, Pandas, Pytorch
+Tools: Git, Vim, GDB, MySQL, Redis, Docker
+Platforms: Linux, Windows, macOS, GCP, AWS
+Soft Skills: Leadership, Event Management, Writing, Time Management
