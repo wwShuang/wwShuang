@@ -54,3 +54,13 @@ HTTP to HTTPS Upgrade: Successfully upgraded the project from HTTP to HTTPS, ens
 Cluster Performance Testing: Conducted cluster performance testing and optimization to ensure system stability and performance under high load conditions.
 Overall Project Migration: Participated in the overall project migration, leveraging containerization technologies such as Docker and Kubernetes to move the project from a single environment to a distributed cluster environment, significantly enhancing system scalability and resilience.
 Through these responsibilities, I have not only enhanced my frontend development skills but also accumulated extensive DevOps experience, providing solid technical support for the successful execution of projects.
+
+
+SQL Query Development and Optimization for Financial Reports:
+
+Developed complex SQL queries to generate financial reports based on specific user requirements.
+Optimized SQL queries to improve performance and reduce execution time.
+Ensured data accuracy and consistency in the generated reports.
+Collaborated with finance and data teams to understand reporting needs and refine queries accordingly.
+Utilized indexing, query refactoring, and other optimization techniques to enhance database performance.
+Conducted thorough testing and validation of SQL queries to ensure reliable output
