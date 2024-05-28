@@ -41,3 +41,16 @@ Machine Learning: NumPy, Pandas, Pytorch
 Tools: Git, Vim, GDB, MySQL, Redis, Docker
 Platforms: Linux, Windows, macOS, GCP, AWS
 Soft Skills: Leadership, Event Management, Writing, Time Management
+
+Team Experience Description
+
+In my team, I primarily handle two main responsibilities:
+
+Frontend Development: I manage frontend business logic, including user interface design and user experience optimization, ensuring the application's functionality and usability meet the requirements. By utilizing frontend frameworks such as React.js and Vue.js, I efficiently build and maintain dynamic, responsive single-page applications (SPAs).
+
+DevOps: As a DevOps engineer, I am responsible for upgrading and optimizing SPA projects to ensure their performance and reliability. My specific tasks include:
+
+HTTP to HTTPS Upgrade: Successfully upgraded the project from HTTP to HTTPS, ensuring secure data transmission and proper functioning of wide IP and Nginx.
+Cluster Performance Testing: Conducted cluster performance testing and optimization to ensure system stability and performance under high load conditions.
+Overall Project Migration: Participated in the overall project migration, leveraging containerization technologies such as Docker and Kubernetes to move the project from a single environment to a distributed cluster environment, significantly enhancing system scalability and resilience.
+Through these responsibilities, I have not only enhanced my frontend development skills but also accumulated extensive DevOps experience, providing solid technical support for the successful execution of projects.
