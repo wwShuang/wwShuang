@@ -64,3 +64,11 @@ Ensured data accuracy and consistency in the generated reports.
 Collaborated with finance and data teams to understand reporting needs and refine queries accordingly.
 Utilized indexing, query refactoring, and other optimization techniques to enhance database performance.
 Conducted thorough testing and validation of SQL queries to ensure reliable output
+
+Project Overview: Developed an automation project to perform various online tasks such as event check-ins and task completions for different internet vendors.
+Responsibilities:
+Deployed a Docker container locally, setting up a scheduling panel to automate script execution.
+Created and integrated custom scripts, as well as utilizing scripts sourced online, to perform automated actions.
+Configured the scheduling system to ensure timely and efficient execution of tasks.
+Monitored and maintained the Docker container to ensure smooth and uninterrupted operations.
+Technologies Used: Docker, Bash/Python (for scripting), Crontab (or another scheduling tool), various online APIs.
